@@ -1,3 +1,5 @@
+Prototype Demonstration Link : https://youtu.be/qXs2fUVBToQ?si=12E_iDXiiiFJ7pRX
+
 # Truck Project: Vehicle Communication
 # Introduction
 The Truck Project: Vehicle Communication is designed to enhance vehicle safety and communication using cameras, sensors, and real-time data analysis. This project leverages a Raspberry Pi to monitor and display important alerts, warnings, and footage for the driver, with a focus on preventing accidents, optimizing vehicle performance, and improving driver awareness.
